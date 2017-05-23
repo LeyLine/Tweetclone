@@ -1,0 +1,78 @@
+body {
+    background-color: rgb(244, 248, 249);
+}
+
+.profilepic {background-color: rgb(255, 255, 255);
+     border:1px solid rgb(225, 232, 237);
+     padding-top: 10px;
+     padding-left: 10px;
+     padding-bottom: 113px;
+     border-radius: 10px
+    }
+
+
+.firsttext {
+  position:relative;
+  left: 43px;
+  top: -255px;
+   font-family: helvetica;
+   font-weight: bold;
+   padding: 50px;
+}
+
+.secondtext {
+  font-family: helvetica;
+  left:92px;
+  top:-338px;
+  position:relative;
+  color: rgb(105, 120, 130);
+}
+
+.thirdtext {
+  left:11px;
+  top: -337px;
+  position:relative;
+  font-size: 23px;
+}
+.fourthtext {
+  font-family: helvetica;
+  color: rgb(105, 120, 130);
+  font-size: 23px;
+  top: -355px;
+  position: relative;
+  left: 9px
+}
+.fifthtext {
+  font-family: helvetica;
+  color: rgb(105, 120, 130);
+  font-size: 23px;
+  top: -371px;
+  position:relative
+}
+
+.follow {
+  color: rgb(85, 172, 238);
+  font-family: helvetica;
+  border: 1px solid rgb(85, 172, 238);
+  border-radius: 10px;
+  border-width: 2px;
+  position: relative;
+  top: -566px;
+  font-weight: bold;
+  font-size: 28px;
+  text-align: center;
+  float: right;
+  left: -18px;
+  width:141px;
+  height:47px;
+}
+.bird {
+left: -47px;
+top:5px;
+position: relative;
+}
+.margin {
+  position: relative;
+  left:17px;
+  top:-60px
+}
